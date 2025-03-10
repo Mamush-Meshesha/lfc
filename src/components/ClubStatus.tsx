@@ -152,11 +152,11 @@ const ClubStatus = () => {
               <ul className="space-y-2">
                 <li className="flex items-center justify-between p-2 bg-white/50 dark:bg-white/5 rounded">
                   <span>Goals Scored</span>
-                  <span className="font-medium">66</span>
+                  <span className="font-medium">69</span>
                 </li>
                 <li className="flex items-center justify-between p-2 bg-white/50 dark:bg-white/5 rounded">
                   <span>Goals Conceded</span>
-                  <span className="font-medium">26</span>
+                  <span className="font-medium">27</span>
                 </li>
                 <li className="flex items-center justify-between p-2 bg-white/50 dark:bg-white/5 rounded">
                   <span>Clean Sheets</span>
